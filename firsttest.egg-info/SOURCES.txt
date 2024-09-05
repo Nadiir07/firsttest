@@ -1,0 +1,8 @@
+setup.py
+firsttest.egg-info/PKG-INFO
+firsttest.egg-info/SOURCES.txt
+firsttest.egg-info/dependency_links.txt
+firsttest.egg-info/requires.txt
+firsttest.egg-info/top_level.txt
+src/__init__.py
+src/firsttestgenerator/__init__.py
